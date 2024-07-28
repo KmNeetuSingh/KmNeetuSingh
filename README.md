@@ -1,5 +1,5 @@
 # 👋Hi,I am Neetu Singh!
-<br>Diligent and Innovative Problem Solver 
+ Diligent and Innovative Problem Solver 
 <br>**Currently Exploring:** MongoDB 👨‍💻 
 <br>**My Projects:** [Portfolio]https://portfolio-gray-alpha-69.vercel.app/)📧 
 <br>**Contact:** neetusingh99950@gmail.com🎨 **Fun Fact:** When I’m not coding, I immerse myself in dancing, painting, and photography.<br>
