@@ -12,6 +12,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=KmNeetuSingh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KmNeetuSingh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KmNeetuSingh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
+(https://github-readme-activity-graph.cyclic.app/graph?username=KmNeetuSingh&theme=github-compact)](https://github.com/KmNeetuSingh/github-readme-activity-graph)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KmNeetuSingh&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 ### 🔝 Top Contributed Repo
