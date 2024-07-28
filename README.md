@@ -17,6 +17,7 @@
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 (https://github-readme-activity-graph.cyclic.app/graph?username=KmNeetuSingh&theme=github-compact)](https://github.com/KmNeetuSingh/github-readme-activity-graph)
+<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KmNeetuSingh&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 ### 🔝 Top Contributed Repo
