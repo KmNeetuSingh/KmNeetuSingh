@@ -1,5 +1,3 @@
-[![masterHead]
-
 # 👋 Hi, I am Neetu Singh!
 Diligent and Innovative Problem Solver 
 <br>**Currently Exploring:** MongoDB 👨‍💻 
