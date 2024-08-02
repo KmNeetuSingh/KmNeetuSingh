@@ -44,7 +44,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KmNeetuSingh&theme=dark&hide_border=false" alt="Neetu Singh's GitHub Streak" style="width: 50%;">
 </div>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
----
 <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i>
     <br>
