@@ -45,9 +45,3 @@ Diligent and Innovative Problem Solver
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KmNeetuSingh&theme=dark&hide_border=false" alt="Neetu Singh's GitHub Streak" style="width: 50%;">
 </div>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-## 🎥 Video Introduction
-![Video Thumbnail](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
----
-[![](https://visitcount.itsvg.in/api?id=KmNeetuSingh&icon=0&color=0)](https://visitcount.itsvg.in)
