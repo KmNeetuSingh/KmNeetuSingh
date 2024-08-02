@@ -1,5 +1,5 @@
-# 👋 Hi, I am Neetu Singh!
-Frontend Developer 👩‍💻,Diligent and Innovative Problem Solver 🌟  
+# 👋 Hi, I am Neetu Singh! Dillegent and Innovative Problem Solver
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+Engineer;Frontend+Developer;)](https://git.io/typing-svg)
 **Currently Exploring:** MongoDB 👨‍💻  
 **My Projects:** [Portfolio](https://portfolio-gray-alpha-69.vercel.app/) 📧  
 **Contact:** neetusingh99950@gmail.com 🎨  
@@ -45,4 +45,8 @@ Frontend Developer 👩‍💻,Diligent and Innovative Problem Solver 🌟
 </div>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 ---
-[![](https://visitcount.itsvg.in/api?id=KmNeetuSingh&icon=0&color=0)](https://visitcount.itsvg.in)
+p align="center">
+    <i>Take a look at my repositories and let's get in touch!</i>
+    <br>
+   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
