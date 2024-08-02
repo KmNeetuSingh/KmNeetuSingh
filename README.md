@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/88171a00-1a70-47fa-99f3-549ebc57f3c4
-Uploading video_20240802_071107_edit.mp4…
 # 👋 Hi, I am Neetu Singh!
 Diligent and Innovative Problem Solver 
 <br>**Currently Exploring:** MongoDB 👨‍💻 
