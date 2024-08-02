@@ -45,7 +45,7 @@
 </div>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 ---
-p align="center">
+<p align="center">
     <i>Take a look at my repositories and let's get in touch!</i>
     <br>
    <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
