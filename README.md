@@ -1,7 +1,5 @@
-# 👋 Hi, I am Neetu Singh!  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+Engineer;Frontend+Developer;Dilligent+and+Innovative+Problem+Solver;)](https://git.io/typing-svg)
-
-
-
+# 👋 Hi, I am Neetu Singh!  
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+Engineer;Frontend+Developer;Dilligent+and+Innovative+Problem+Solver;)](https://git.io/typing-svg)
 **Currently Exploring:** MongoDB 👨‍💻  
 **My Projects:** [Portfolio](https://portfolio-gray-alpha-69.vercel.app/) 📧  
 **Contact:** neetusingh99950@gmail.com 🎨  
