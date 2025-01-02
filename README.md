@@ -16,7 +16,7 @@ I’m fueled by curiosity and creativity. Whether I’m coding a polished fronte
 I aspire to create technology that not only solves problems but also brings people closer and simplifies their everyday experiences.
 
 🎭 **Beyond the Screen:**  
-When I’m away from the keyboard, I dive into dancing 💃, painting 🎨, and capturing moments through photography 📸—expressing creativity in every form.
+When I’m away from the keyboard, I dive into exploring,painting 🎨, and capturing moments through photography 📸—expressing creativity in every form.
 
 **Currently Exploring:** DSA 🛠️  
 **Portfolio:** [Visit Here](https://portfolio-gray-alpha-69.vercel.app/)  
