@@ -39,8 +39,8 @@ When I’m away from the keyboard, I dive into dancing 💃, painting 🎨, and 
 ## 📊 **GitHub Stats**
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin:auto">
-   <img src="https://github-readme-stats.vercel.app/api?username=KmNeetuSingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Neetu Singh's GitHub Stats" style="width: 45%; border-radius: 8px;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmNeetuSingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 45%; border-radius: 8px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=KmNeetuSingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Neetu Singh's GitHub Stats" style="width: 40%;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmNeetuSingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 40%;">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KmNeetuSingh&theme=dark&hide_border=false" alt="Neetu Singh's GitHub Streak" style="width: 45%; border-radius: 8px;">
 </div> 
 
