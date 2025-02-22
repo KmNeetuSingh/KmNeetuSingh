@@ -52,5 +52,5 @@ When I’m away from the keyboard, I dive into exploring,painting 🎨, and capt
     <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>  
 
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=KmNeetuSingh&color=ff69b4)
+
 
