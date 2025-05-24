@@ -18,10 +18,10 @@
     <h2>🌍 Connect With Me</h2>
     <p>Let's connect! Explore my professional journey, view my projects, and reach out for collaborations or inquiries.</p>
     <a href="https://www.linkedin.com/in/neet9369">
-        <img src="https://img.shields.io/badge/Neetu_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://twitter.com/Neetu_Singh_">
-        <img src="https://img.shields.io/badge/Neetu_Singh_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+        <img src="https://img.shields.io/badge/Twitter_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=KmNeetuSingh&style=for-the-badge" alt="Profile views" />
 </div>
