@@ -11,7 +11,7 @@
     <h2>🚀 About Me</h2>
     <p>I am a passionate Software Engineer and MERN Stack Developer focused on delivering innovative, scalable, and efficient solutions. With a deep understanding of modern technologies, I aim to create intuitive user experiences that solve real-world challenges.</p>
     <p><b>Core Values:</b> Curiosity, creativity, and a commitment to excellence in solving complex problems through innovative solutions.</p>
-    <p><b>Beyond Code:</b> Painting 🎨 | Photography 📸 | Lifelong Learning 📚</p>
+    <p><b>Beyond Code:</b> Painting 🎨 | Lifelong Learning 📚</p>
 </div>
 
 <div align="center">
