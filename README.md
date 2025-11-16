@@ -2,7 +2,7 @@
   <h1 style="display: flex; align-items: center; gap: 2px;">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&color=1A237E&center=true&vCenter=true&width=650&lines=Hey+I'm+Neetu+Singh.;Full-Stack+Engineer.;Freelancer." 
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&color=1A237E&center=true&vCenter=true&width=900&lines=Hey+I'm+Neetu+Singh.;Full-Stack+Engineer+OneHealthAssist.;Ex-Intern+Codolog;Freelancer." 
       alt="Typing SVG"
     />
   </h1>
