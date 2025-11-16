@@ -1,16 +1,41 @@
-<div align="left">
-  <h1 style="display: flex; align-items: center; gap: 6px;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+<div align="center" style="width: 100%;">
+  <h1 style="
+      display: flex; 
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      width: 100%;
+      text-align: center;
+  ">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&color=1A237E&center=true&vCenter=true&width=900&lines=Hey+I'm+Neetu+Singh.;Full-Stack+Engineer+OneHealthAssist.;Ex-Intern+Codolog;Freelancer." 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="60" 
+    style="max-width: 100%; height: auto;"
+  />
+
+  <!-- Text next to emoji -->
+  <span style="font-size: 32px; font-weight: 800;">
+    Hi, I am Neetu Singh
+  </span>
+
+
+  <img
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&color=1A237E&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer+OneHealthAssist.;Ex-Intern+Codolog;"
       alt="Typing SVG"
+      style="max-width: 100%; height: auto;"
     />
   </h1>
 
-  <p>
-    <img src="https://raw.githubusercontent.com/Neetu-Singh/Neetu-Singh/main/terminal-gh.gif" alt="Terminal GH GIF" />
+  <p style="text-align:center; max-width:100%;">
+    <img 
+      src="https://raw.githubusercontent.com/Neetu-Singh/Neetu-Singh/main/terminal-gh.gif"
+      alt="Terminal GH GIF"
+      style="max-width:100%; height:auto;"
+    />
   </p>
 </div>
+
 
 
 
